@@ -1,0 +1,40 @@
+Egg Fired Rice,requires,Egg,1,3
+Egg Fired Rice,requires,Cold Rice,1,2
+Egg Fired Rice,requires,Oil,1,1
+Egg Fired Rice,requires,Soy Sauce,1,1
+Egg Fired Rice,requires,Green Onion Diced,0.5,15
+Egg Fired Rice,requires,Salt,0.5,1
+Egg Fired Rice,requires,Sugar,0.5,1
+Yang Chow Fried Rice,requires,Egg,1,2
+Yang Chow Fried Rice,requires,Cold Rice,1,2
+Yang Chow Fried Rice,requires,Oil,1,1
+Yang Chow Fried Rice,requires,Soy Sauce,1,1
+Yang Chow Fried Rice,requires,Green Onion Diced,0.5,15
+Yang Chow Fried Rice,requires,Salt,0.5,1
+Yang Chow Fried Rice,requires,Sugar,0.5,1
+Yang Chow Fried Rice,requires,Char Siu Diced,1,15
+Yang Chow Fried Rice,requires,Shrimp,1,8
+Western Fried Rice,requires,Egg,1,2
+Western Fried Rice,requires,Cold Rice,1,2
+Western Fried Rice,requires,Oil,1,1
+Western Fried Rice,requires,Green Onion Diced,0.5,15
+Western Fried Rice,requires,Salt,0.5,1
+Western Fried Rice,requires,Sugar,0.5,1
+Western Fried Rice,requires,Sausage Diced,1,15
+Western Fried Rice,requires,Green Pea,1,10
+Western Fried Rice,requires,Corn,0.5,10
+Western Fried Rice,requires,Ketchup,1,3
+Egg Sandwich,requires,White Bread,1,2
+Egg Sandwich,requires,Egg,1,2
+Egg Sandwich,requires,Oil,1,1
+Egg Sandwich,requires,Salt,1,1
+Luncheon Meat & Egg Sandwich,requires,White Bread,1,2
+Luncheon Meat & Egg Sandwich,requires,Egg,1,2
+Luncheon Meat & Egg Sandwich,requires,Oil,1,1
+Luncheon Meat & Egg Sandwich,requires,Salt,0.5,1
+Luncheon Meat & Egg Sandwich,requires,Luncheon Meat Slice,1,2
+Tomato & Egg Sandwich,requires,White Bread,1,2
+Tomato & Egg Sandwich,requires,Egg,1,2
+Tomato & Egg Sandwich,requires,Oil,1,1
+Tomato & Egg Sandwich,requires,Salt,1,1
+Tomato & Egg Sandwich,requires,Tomato Slice,1,4
